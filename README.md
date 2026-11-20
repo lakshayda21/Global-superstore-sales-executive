@@ -64,7 +64,7 @@ Aspiring Data Analyst
 ## Dashboard Preview
 
 ### Page 1 - Executive Overview
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](Product and Category analysis.png)
 
 ### Page 2 - Product Analysis
 ![Product Analysis](Product and Category analysis.png)
