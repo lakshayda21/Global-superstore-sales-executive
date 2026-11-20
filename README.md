@@ -59,3 +59,15 @@ The Power BI dashboard file (`.pbix`) is available in this repository.
 Aspiring Data Analyst
 
 **Note:** Dashboard figures are based on displayed values. Some calculated insights are approximate and should be validated against the underlying DAX measures.
+
+
+## Dashboard Preview
+
+### Page 1 - Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+### Page 2 - Product Analysis
+![Product Analysis](Product and Category analysis.png)
+
+### Page 3 - Customer & Regional Analysis
+![Customer Analysis](Customer behaviour and shipping expenses.png)
