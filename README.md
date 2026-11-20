@@ -61,13 +61,14 @@ Aspiring Data Analyst
 **Note:** Dashboard figures are based on displayed values. Some calculated insights are approximate and should be validated against the underlying DAX measures.
 
 
+
 ## Dashboard Preview
 
 ### Page 1 - Executive Overview
-![Executive Overview](Product and Category analysis.png)
+![Executive Overview](Executive%20Overview.png)
 
 ### Page 2 - Product Analysis
-![Product Analysis](Product and Category analysis.png)
+![Product Analysis](Product%20and%20Category%20analysis.png)
 
 ### Page 3 - Customer & Regional Analysis
-![Customer Analysis](Customer behaviour and shipping expenses.png)
+![Customer Analysis](Customer%20behaviour%20and%20shipping%20expenses.png)
